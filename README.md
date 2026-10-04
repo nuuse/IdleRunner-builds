@@ -1,2 +1,3 @@
-# IdleRunner-builds
-IdleRunner Playtest-Builds (automatische Updates, kein Quellcode)
+# Scrap Parade - builds
+Scrap Parade Playtest-Builds 
+Automatische Updates
