@@ -82,7 +82,7 @@ Every version with its notes: **[all releases](https://github.com/nuuse/ScrapPar
 The game isn't finished. That's the point of testing it, and why your notes help.
 
 - **Something broke?** In the game: *Settings → Report an error*. It sends the error log and your game version. Add a line on what happened if you like.
-- **Anything else?** What annoys you, what's unclear, what's missing, what's fun: tell the person who sent you this link.
+- **Anything else?** What annoys you, what's unclear, what's missing, what's fun: post it on **[Discord](https://discord.gg/zAbupYqpde)** or tell the person who sent you this link.
   Short notes are perfect ("boss 2 felt impossible", "couldn't find the workshop").
 
 **Download, play a few runs, tell us what you think.** Thanks for testing!
@@ -127,7 +127,7 @@ Alle Versionen mit Änderungen: **[alle Releases](https://github.com/nuuse/Scrap
 ### Feedback
 
 - **Etwas kaputt?** Im Spiel: *Einstellungen → Fehler melden*. Das schickt das Fehlerprotokoll und deine Version mit. Wenn du magst, schreib kurz dazu, was passiert ist.
-- **Alles andere?** Was nervt, was unklar ist, was fehlt, was Spaß macht: Sag es der Person, die dir den Link geschickt hat.
+- **Alles andere?** Was nervt, was unklar ist, was fehlt, was Spaß macht: Schreib es auf **[Discord](https://discord.gg/zAbupYqpde)** oder sag es der Person, die dir den Link geschickt hat.
   Kurze Notizen reichen völlig („Boss 2 war nicht zu schaffen“, „Werkstatt nicht gefunden“).
 
 **Runterladen, ein paar Runden spielen, Bescheid sagen.** Danke fürs Testen!
